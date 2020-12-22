@@ -1,5 +1,5 @@
 # awesome-adversarial-attacks
-A curated list of papers related to adversarial attacks on deep object detection, semantic segmentation and other applications
+(Under Construction) A curated list of papers related to adversarial attacks on deep object detection, semantic segmentation and other applications
 
 ## Contents
  - [Attacks on Object Detector](https://github.com/murari023/awesome-background-subtraction#deep-learning-based-papers)
@@ -26,13 +26,13 @@ A curated list of papers related to adversarial attacks on deep object detection
 - [2018 - A Background Modeling and Foreground Detection Algorithm Using Scaling Coefficients Defined With a Color Model Called Lightness-Red-Green-Blue](http://ieeexplore.ieee.org/document/8118166/)
 
 ## Datasets
-- [Change Detection Net (CDNet)](http://changedetection.net/)
+- [APRICOT](http://changedetection.net/)
 
 ## Awesome Researchers
-- [Thierry Bouwnmans](https://scholar.google.co.in/citations?user=e_gZ7MkAAAAJ&hl=en&oi=ao)
+- [XXX](https://scholar.google.co.in/citations?user=e_gZ7MkAAAAJ&hl=en&oi=ao)
 - 
 ## Awesome Resources
-- [bgslibrary](https://github.com/andrewssobral/bgslibrary)
+- [YYYY](https://github.com/andrewssobral/bgslibrary)
 
 ## Contributions are always welcomed!
 If you have any suggestions (missing papers, projects, source code, new papers, key researchers, dataset, etc.), please feel free to edit and pull a request. (or just let me know the title of paper)
